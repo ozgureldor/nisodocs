@@ -2,19 +2,18 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Admin Functions  
  
 
 ## Getting Started
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Get started by **authentication**.
+ 
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- [API KEY]  you can access this information from your account panel . :
+  - All of the requests should be include authentication API key in request header..
 
 ## Generate a new site
 
